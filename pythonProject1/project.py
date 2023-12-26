@@ -4,11 +4,11 @@ app=Flask(__name__)
 
 book_db=[
     {
-        'name':'secret',
-        'price':250
+        'name':'rich dad poor dad',
+        'price':650
     },
     {
-        'name': 'deep dark ',
+        'name': 'breath ',
         'price': 350
 
     }
